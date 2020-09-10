@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 你好
-subtitle: 我是大司马
+subtitle: 我是韩金龙
 sitemap:
   priority: 0.9
 ---
@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>我爱你，起飞</p>
+	<p>大司马实在是<strong> <a href="https://github.com/knhash/Pudhina">太可爱了</a> </strong></p>
 </div>
