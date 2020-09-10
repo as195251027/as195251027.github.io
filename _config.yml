@@ -1,13 +1,14 @@
 # Site settings
-title: dasima
+title: 温力军的博客
+
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  这是大司马的甜蜜小屋
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://as195251027.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: dasima
+  fullname: 大司马
   github: github
   email: dasima@qq.com
 
