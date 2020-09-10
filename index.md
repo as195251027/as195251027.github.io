@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is 大司马
+title: 你好
+subtitle: 我是大司马
 sitemap:
   priority: 0.9
 ---
