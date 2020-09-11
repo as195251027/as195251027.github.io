@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 韩金龙
-subtitle: 厨神大司马
+title: 简介
+subtitle: 韩金龙厨神大司马
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
